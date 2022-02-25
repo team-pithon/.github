@@ -1,12 +1,8 @@
-## Hi there 👋
+### Qualification Round Placements:
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Edition | #Hub | #Country | #Worldwide |
+| :------ | :--- | :------- | :--------- |
+| 2019    | 7th  | 80th     | 4,768th    |
+| 2020    | 5th  | 34th     | 3,472th    |
+| 2021    | 5th  | 25th     | 2,961th    |
+| 2022    | 2nd  | 21th     | 4,053th    |
